@@ -1,4 +1,4 @@
-name: CI
+name: LEGENDX
 
 on: workflow_dispatch
 
